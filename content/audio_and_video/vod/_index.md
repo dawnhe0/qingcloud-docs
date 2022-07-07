@@ -63,7 +63,7 @@ section4:
           url: "intro/40_solutions"
 
     - title: 上手：使用云点播服务
-      content: 。
+      content: 使用云点播进行音视频管理、媒字处理及分发播放。
       vice_title: 上手的第一步
       children:
         - title: 快速使用云点播服务
